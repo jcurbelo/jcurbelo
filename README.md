@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Robin, software engineer 💻 and proud [cuban runner](https://github.com/cubanrunners) 🇨🇺 🏃‍♂️
+I'm Robin, software engineer 💻, and proud [Cuban runner](https://github.com/cubanrunners) 🇨🇺 🏃‍♂️
 
 ![Robin Curbelo's github stats](https://github-readme-stats.vercel.app/api?username=jcurbelo&count_private=true)
 
